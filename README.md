@@ -9,9 +9,7 @@ Code Files:
 
 1. vanishing_points_3.py
 
-This file has been used as it is (not my code) to get the vanishing points.
-Initially I used HoughLines to get the vanishing points, but due to some contraints the other vanishing point which will be parallel to the vehicles could not be obtained. Thus, I picked up a code where I executed the file and plotted the lines, which gave me the coordinates of the vanishing points.
-
+This file has been used to get the vanishing points.
 
 2. speed_estimator.py
 
