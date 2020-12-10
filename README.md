@@ -2,13 +2,8 @@
 
 To execute the code:
 ```
-python speed_estimator.py -i ‘video.mp4’ -o ‘output.mp4’ 
+`python speed_estimator.py -i <input_filename> -o <output_filename>
 ```
-OR
-```
-python speed_estimator.py -i <input_filename> -o <output_filename>
-
-
 
 Code Files:
 
